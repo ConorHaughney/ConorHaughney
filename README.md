@@ -19,7 +19,7 @@ fields_of_interests:
     "Web Development",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
+    "Software Development",
     "DevOps",
   ]
   
